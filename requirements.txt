@@ -1,0 +1,2 @@
+# No external libraries required
+# Tkinter and time are included with Python standard library.
